@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yohwaepiy.matrixdesignstudio.com/sitemap.xml
